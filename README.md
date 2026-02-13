@@ -1,7 +1,8 @@
 ﻿News
 ====
-Welcome, [Open-Xml-PowerTools](https://github.com/OpenXmlDev/Open-Xml-PowerTools) users. This version of the library is based on SkiaSharp, which replaced System.Drawing.Common, which stops supporting all operating systems except Windows starting with the version .NET 6
-Thanks to [SkiaSharp](https://github.com/mono/SkiaSharp), Open-Xml-PowerTools has become cross-platform.
+Hello, Open-Xml-PowerTools users.  We're looking for a maintainer for this repo - someone to
+review PRs, respond to queries, and etc.  If you are interested in contributing to this repo
+in this fashion, please message either Thomas Barnekow or Eric White here on github.
 
 Sergey Grafeev
 
